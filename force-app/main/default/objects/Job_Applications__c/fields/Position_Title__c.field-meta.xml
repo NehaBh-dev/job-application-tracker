@@ -3,7 +3,7 @@
     <fullName>Position_Title__c</fullName>
     <externalId>false</externalId>
     <label>Position/Title</label>
-    <length>50</length>
+    <length>150</length>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Text</type>

@@ -3,7 +3,7 @@
     <fullName>Location__c</fullName>
     <externalId>false</externalId>
     <label>Location</label>
-    <length>15</length>
+    <length>100</length>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Text</type>
